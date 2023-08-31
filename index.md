@@ -6,6 +6,6 @@ Ankit Gupta
      - agupta19@ncsu.edu
     
        
-       ![College.](C:\Users\ankit\Downloads\nc-state-belltower.jpeg)
+       ![College.](https://myoctocat.com/gallery/)
        
 
