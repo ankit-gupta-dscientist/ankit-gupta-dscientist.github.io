@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+1. First list item
+   - First nested list item
+     - Second nested list item
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
