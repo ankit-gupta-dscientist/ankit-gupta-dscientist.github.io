@@ -12,11 +12,12 @@ Ankit Gupta
       
       An interesting finding was the sheer greatness of legendary pokemon in the dataset!
 
+      Programming-wise, I learned how to make a 3-D scatterplot, and how to mass appropriate api data into cuts of usable insights. Attempted to load this into git (github_page r upload alongiside hoping for MD to populate). Unfortnately could not troubleshoot.
 
 
 
 
-       
-       ![Pok.]([https://visit.ncsu.edu/wp-content/uploads/sites/27/2021/07/Memorial-Belltower-2.jpg](https://freepngimg.com/thumb/pokemon/20048-2-pikachu-hd.png)https://freepngimg.com/thumb/pokemon/20048-2-pikachu-hd.png)
+
+ 
        
 
