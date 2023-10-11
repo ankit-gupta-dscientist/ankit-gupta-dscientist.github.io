@@ -4,7 +4,7 @@ Ankit Gupta
 
 
 
-      My project was around analyzing different parameters around different Pokemon. Pokemon is a Japanese Media Franchise starting in 1997 which became largely popular for it tv series and card trading game.
+      My project was around analyzing different parameters around different Pokemon. Pokemon is a Japanese Media Franchise starting in 1997 which became largely popular for its tv series and card trading game.
       
       The goal of my project is inform individuals how to utilize historical information around this Pokemon using the Poke API.
       
