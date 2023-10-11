@@ -17,6 +17,6 @@ Ankit Gupta
 
 
        
-       ![College.](https://visit.ncsu.edu/wp-content/uploads/sites/27/2021/07/Memorial-Belltower-2.jpg)
+       ![Pok.]([https://visit.ncsu.edu/wp-content/uploads/sites/27/2021/07/Memorial-Belltower-2.jpg](https://freepngimg.com/thumb/pokemon/20048-2-pikachu-hd.png)https://freepngimg.com/thumb/pokemon/20048-2-pikachu-hd.png)
        
 
