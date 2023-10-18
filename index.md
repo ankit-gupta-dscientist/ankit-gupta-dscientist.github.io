@@ -1,24 +1,36 @@
 Ankit Gupta
-   - Pokemon API Blog
+   - Blog 2
+
+Exploratory Data Analysis (EDA) is the compass that guides data scientists through the dense forest of raw data to uncover valuable insights and patterns. 
+Its often the first step in any data-driven project, and like any art, it gets better with practice
+
+EDA is both an art and a science. 
+Its about discovering the hidden stories within the data, asking the right questions, and letting the data lead you to its secrets. 
+
+Some techniques I like to use initially to make more sense of data:
 
 
 
+Summary Statistics
 
-      My project was around analyzing different parameters around different Pokemon. Pokemon is a Japanese Media Franchise starting in 1997 which became largely popular for its tv series and card trading game.
-      
-      The goal of my project is inform individuals how to utilize historical information around these Pokemon using the Poke API.
-      
-      I looked at many different facets but focused my visualizations around the physical capability and measurements of these pokemon.
-      
-      An interesting finding was the sheer greatness of legendary pokemon in the dataset!
+Basic statistics like mean, median, mode, standard deviation, and variance provide an initial overview of the datas central tendency and dispersion.
 
-      Programming-wise, I learned how to make a 3-D scatterplot, and how to mass appropriate api data into cuts of usable insights. Attempted to load this into git (github_page upload alongside hoping for MD file to populate). Unfortunately could not troubleshoot. In the future, I would sure up my github page reading more on how to troubleshoot. I would also like to try to create my own api through a database, think that would be quite interesting!
+Data Visualization
+
+Histograms Visualize the distribution of a single variable.
+Box Plots Show the summary of a variables distribution, including outliers.
+Scatter Plots Examine relationships between two variables.
+Etc
+
+Calculate correlation coefficients (e.g., Pearson, Spearman) to understand the relationships between variables. Positive, negative, or no correlation can provide insights into dependencies.
+
+Outlier Detection
+
+Use statistical techniques (e.g., Z-scores, IQR) to identify and handle outliers, which can skew analysis.
 
 
-     ![alt text](https://purepng.com/public/uploads/large/purepng.com-pokemonpokemonpocket-monsterspokemon-franchisefictional-speciesone-pokemonmany-pokemonone-pikachu-1701527786833pqvld.png)
 
-
-
+    
 
 
  
